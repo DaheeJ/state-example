@@ -11,7 +11,7 @@ export default class extends React.Component{
 
         return(
             <div>
-                <h1>Props Example 1</h1>    
+                <h1>Props Example 2</h1>    
                 <hr/>
 
                 <ChildComp singer={ sing1 } />
